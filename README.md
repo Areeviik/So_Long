@@ -1,5 +1,5 @@
 # so_long
-For execution do the following.
+For execution do the following. <br>
 <b>make </b> <br>
 <b>./so_long maps/map.ber </b>
 
